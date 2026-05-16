@@ -1,7 +1,7 @@
 # Hi there, I'm Harsha Sree! 👋  
 
 ### About Me
-- 🎓 **CSE Undergrad** at **Malla Reddy University**, 2nd Year  
+- 🎓 **CSE Undergrad** at **Malla Reddy University**
 - 💻 Passionate about **Full-Stack Development**  
 - 🌐 Proficient in **Java**, **Python**, and **JavaScript**  
 - 📊 Skilled in **Data Visualization** with **Power BI**, **Tableau**, and **R Language**  
